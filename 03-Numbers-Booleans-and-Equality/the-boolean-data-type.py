@@ -1,0 +1,12 @@
+print(True)
+print(False)
+
+print(5==5)
+print(4==3)
+print(5==9)
+print('ham'=='gun')
+print('ham'=='hun')
+print('5'=='5')
+print(True==False)
+print(4!=8)
+print(True!=False)                  

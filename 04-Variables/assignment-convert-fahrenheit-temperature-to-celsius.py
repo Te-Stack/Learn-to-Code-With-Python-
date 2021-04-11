@@ -1,0 +1,5 @@
+print("let me help you convert fahrenheit to Celsius ")
+user_value = input("what is the temperature in fahrenheit")
+fahrenheit_temp = float(user_value)
+Result = (fahrenheit_temp  -  32) * (5/9)
+print("The celsius temp is",Result)
