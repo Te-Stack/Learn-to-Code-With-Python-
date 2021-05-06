@@ -8,5 +8,6 @@ print(muscles[:5])
 
 print(muscles[::1])
 print(muscles[::2])
+print(muscles[::3])
 print(muscles[::-1])
 

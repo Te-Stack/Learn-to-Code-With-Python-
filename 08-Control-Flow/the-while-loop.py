@@ -14,4 +14,4 @@ invalid_number = False
 
 a =42
 
-print(a/0)
+print(int(a/10))

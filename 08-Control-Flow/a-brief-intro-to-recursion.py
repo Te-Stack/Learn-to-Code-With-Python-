@@ -11,8 +11,10 @@ count_down_from(5)
 
 
 def count_up_from(num):
-    if num <=0:
+    if num >=10:
         return 
 
     print(num)
     count_up_from(num + 1)
+
+count_up_from(1)
