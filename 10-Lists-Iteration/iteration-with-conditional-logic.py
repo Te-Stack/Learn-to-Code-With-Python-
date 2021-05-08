@@ -4,7 +4,7 @@ other_values = [5,10,15,20,25,30]
 
 def odds_sum(numbers):
     total = 0
-    for number in numbers:
+    for number in numbers:  
         if number % 2 == 1:
             total += number 
     return total 
@@ -13,7 +13,7 @@ def odds_sum(numbers):
 print(odds_sum(values))     
 print(odds_sum(other_values)) 
 
-
+  
 
 def greatest_number(numbers):
     greatest = numbers[0]
