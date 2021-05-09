@@ -3,7 +3,7 @@ other_values = [5,10,15,20,25,30]
 
 
 def odds_sum(numbers):
-    total = 0
+    total = 0     j
     for number in numbers:  
         if number % 2 == 1:
             total += number 
