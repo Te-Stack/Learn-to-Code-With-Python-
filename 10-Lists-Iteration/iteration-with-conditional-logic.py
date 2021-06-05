@@ -22,7 +22,7 @@ def greatest_number(numbers):
             greatest= number     
     return greatest
 
-print(greatest_number([1,2,3,4,5]))  
+print(greatest_number([1,10,3,4,5]))  
 
 
   
