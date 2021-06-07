@@ -22,3 +22,12 @@ for value in numbers:
     total = total + value
 
 print(total)    
+print()
+
+def iterTest(low,high):
+    while low<=high:
+        print(low)
+        low=low+1
+    
+
+iterTest(1,10)

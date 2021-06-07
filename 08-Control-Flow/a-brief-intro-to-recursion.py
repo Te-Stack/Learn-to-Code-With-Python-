@@ -18,3 +18,12 @@ def count_up_from(num):
     count_up_from(num + 1)
 
 count_up_from(1)
+print()
+
+
+def recurTest(low,high):
+    if low<=high:
+        print(low)
+        recurTest(low+1,high)
+
+recurTest(1,5)
