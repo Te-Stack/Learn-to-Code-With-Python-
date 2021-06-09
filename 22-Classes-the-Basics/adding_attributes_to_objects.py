@@ -6,7 +6,7 @@ acoustic = Guitar()
 electric = Guitar()
 
 acoustic.wood = "Mohogany"
-acoustic.wood = 6
+acoustic.wood = 7
 acoustic.wood = 2001
 
 electric.nickname = "Sound Viking 3000"
