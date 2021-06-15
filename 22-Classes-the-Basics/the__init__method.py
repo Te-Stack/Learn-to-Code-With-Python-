@@ -10,3 +10,5 @@ print  (acoustic)
 
 electric = Guitar()
 print(electric)
+
+Light =Guitar()
