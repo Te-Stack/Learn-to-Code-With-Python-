@@ -19,4 +19,4 @@ def parse_expenses(expenses_string):
                          currency))
     return expenses
 
-print(parse_expenses("2016-01-02 -34.01 USD"))
+print(parse_expenses("2017-01-02 -34.01 USD"))
