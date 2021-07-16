@@ -1,3 +1,3 @@
-# Python Data Structures and Algorithms CodeBase
+# Python Data Structures and Algorithms
 
 
