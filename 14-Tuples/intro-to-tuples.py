@@ -9,6 +9,6 @@ mystery = 1,
 print(type(mystery))
 
 
-print(tuple(["Sushi","Steak","Guacamole"]))
+print(tuple(["Sushi","Steakd","Guacamole"]))
 
 print(tuple(["abc"]))
