@@ -3,7 +3,7 @@ class Store():
         self.owner ="Quincy"
 
     def exclaim(self):
-        return "lots of stuff to buy,come inside!"
+        return "lots of stuff to buy,come inside or!"
 
 
 class CoffeeShop(Store):
