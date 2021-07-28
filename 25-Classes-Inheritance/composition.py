@@ -29,6 +29,7 @@ class Lawyer():
 
 cheap_briefcase = Briefcase(19.99)
 vinny = Lawyer("Vincent",cheap_briefcase)
+yinny = Lawyer("Vincent",cheap_briefcase)
 
 vinny.write_note("My client is innoccent!","AS-2ZK1")
 vinny.write_note("There is no evidence of a crime!","AS-2ZK1")
