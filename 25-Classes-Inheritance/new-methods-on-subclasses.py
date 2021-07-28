@@ -1,6 +1,6 @@
 class Employee():
     def do_work(self):
-        print("I'm working!")
+        print("I'm working and I am tired")
 
 class Manager(Employee):
     def waste_time(self):
