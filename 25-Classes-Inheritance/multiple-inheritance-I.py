@@ -7,7 +7,7 @@ class FrozenFood():
 
 class Dessert():
     def add_weight(self):
-        print("Putting on the pounds")
+        print("Putting on the poundsj")
 
     def store(self):
         print("Putting in the refrigerator")
