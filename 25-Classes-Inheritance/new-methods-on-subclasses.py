@@ -8,7 +8,7 @@ class Manager(Employee):
 
 class Director(Manager):
     def fire(self):
-        print("you're fired!")
+        print("you're not fired!")
 
     
 e = Employee()
