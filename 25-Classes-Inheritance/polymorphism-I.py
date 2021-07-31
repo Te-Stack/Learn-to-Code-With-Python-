@@ -9,7 +9,7 @@ class Person():
 
 values = [
     "Boris",
-    [1,2,3],
+    [1,2,4],
     [4,5,6,7],
     {"a":1,"b":2},
     Person("Quincy",71)
