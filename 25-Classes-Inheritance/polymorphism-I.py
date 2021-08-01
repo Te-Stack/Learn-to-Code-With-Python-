@@ -12,7 +12,7 @@ values = [
     [1,2,4],
     [4,5,6,7],
     {"a":1,"b":2},
-    Person("Quincy",71)
+    Person("Quincy",81)
 ]
 
 for el in values:
