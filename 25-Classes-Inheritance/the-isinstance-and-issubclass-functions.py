@@ -1,4 +1,4 @@
-print(type({"a": 1}))
+print(type({"a": 2}))
 
 print(isinstance(1,int))
 print(isinstance([],list))
