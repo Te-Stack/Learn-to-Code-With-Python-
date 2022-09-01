@@ -1,5 +1,7 @@
 birthday = (20,6,2001)
+birthday3 = [20,6,4]
 print(len(birthday))
+print(len(birthday3))
 
 print(birthday[0])
 print(birthday[1])

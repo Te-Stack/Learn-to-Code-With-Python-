@@ -1,6 +1,9 @@
-print("I love sandwiches")
-print('I also love juice beverages')
-print('we are happy')
+#print("I love sandwiches")
+#print("I also love juice beverages")
+#print('we are happy')
+
+print("Hello","Goodbye",end="!&*")
+print("Hello")
 
 print(5)
 print(3+4)

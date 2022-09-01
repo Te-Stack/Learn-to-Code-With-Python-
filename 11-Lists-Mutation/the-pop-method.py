@@ -8,6 +8,6 @@ action_stars = ["Norris","Seagal","Van Damme","Arnold"]
 #print(action_stars)
 #print(second_star)
 
-muscles_from_brussels = action_stars.pop(-2)
+muscles_from_brussels = action_stars.pop(0)
 print(action_stars)
 print(muscles_from_brussels)
