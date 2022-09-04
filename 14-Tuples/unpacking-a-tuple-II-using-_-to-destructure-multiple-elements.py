@@ -7,6 +7,7 @@ meats,spice,temperature,cooking_time = ingredient
 print(meats)
 print(cooking_time)
 
+print()
 #grab excess items with *
 
 a,b,*rest=range(7)
