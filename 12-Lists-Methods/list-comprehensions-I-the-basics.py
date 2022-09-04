@@ -17,3 +17,12 @@ print([expression.upper() for expression in expressions])
 
 decimals = [4.95, 3.28, 1.08]
 print([int(decimal) for decimal in decimals])
+
+
+#using list comprehensions for Cartesian Products
+
+students = ["quincy","iyanu","samuel"]
+levels = [1,2,3,5]
+
+student_check = [(student,level)for student in students for level in levels]
+print(student_check)
