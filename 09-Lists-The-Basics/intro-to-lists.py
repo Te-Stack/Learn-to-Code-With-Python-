@@ -1,7 +1,7 @@
 #a data structure that stores an ordered sequence of objects.
 
 empty = []
-emoty = list()
+empty = list()
 
 sodas = ["Coke","Pepsi","Quincy"]
 print(len(sodas))
